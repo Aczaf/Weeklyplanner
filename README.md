@@ -29,23 +29,6 @@ Efficiency Pro 是一款专为追求极致效率和成就感的用户设计的�
 - **Date-fns**：精准的日期逻辑处理。
 - **Lucide React**：简洁美观的图标库。
 
-## 🚀 快速开始
-
-1. **安装依赖**：
-   ```bash
-   npm install
-   ```
-
-2. **启动开发服务器**：
-   ```bash
-   npm run dev
-   ```
-
-3. **构建生产版本**：
-   ```bash
-   npm run build
-   ```
-
 ## 📂 项目结构
 - `/src/App.tsx`：主程序入口，包含所有核心逻辑。
 - `/src/index.css`：全局样式及 Tailwind 配置。
