@@ -1,0 +1,5 @@
+{
+  "name": "Weekly Planner",
+  "description": "A simple weekly schedule manager with 20-minute time slots and color-coded tasks.",
+  "requestFramePermissions": []
+}
